@@ -1,4 +1,4 @@
-x
+
 
 #include <iostream>
 #include <string>
@@ -127,11 +127,7 @@ dream_lantern:
 	
     	const int bangomaksu=10;
     
-//    Contact contacts[maxContacts];
-    
     	Tewanbango tewanbangos[bangomaksu];
-    
-//    	int bangowa=0;
     	
     		cout<<endl<<endl;
     	
